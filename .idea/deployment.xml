@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="Fixture_Input">
+    <serverData>
+      <paths name="Fixture_Input">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/site/Input_Forms" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

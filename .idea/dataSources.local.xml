@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="LBA" uuid="7db0a66b-effb-4e45-9cc8-92ac1963ff12">
+      <secret-storage>master_key</secret-storage>
+      <user-name>aroutdoors</user-name>
+      <schema-pattern>aroutdoors.*</schema-pattern>
+      <default-schemas>aroutdoors.*</default-schemas>
+    </data-source>
+    <data-source name="LBA_Web" uuid="734ab90d-3d3a-400b-9534-2856c3ba7021">
+      <secret-storage>memory</secret-storage>
+      <user-name>london28_wp680</user-name>
+      <schema-pattern>london28_wp680.*</schema-pattern>
+      <default-schemas>london28_wp680.*</default-schemas>
+    </data-source>
+  </component>
+</project>
